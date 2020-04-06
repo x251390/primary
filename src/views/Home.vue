@@ -34,7 +34,7 @@
         </el-tab-pane>
         <el-tab-pane label="景区概况">景区概况</el-tab-pane>
         <el-tab-pane label="活动盛事">活动盛事</el-tab-pane>
-        <el-tab-pane label="景区攻略">景区攻略22</el-tab-pane>
+        <el-tab-pane label="景区攻略">景区攻略</el-tab-pane>
         <el-tab-pane label="在线留言">在线留言</el-tab-pane>
         <el-tab-pane label="联系我们">联系我们</el-tab-pane>
       </el-tabs>
