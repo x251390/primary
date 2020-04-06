@@ -1,7 +1,7 @@
 <template>
   <div id="Home">
     <div class="header clearfix container">
-      <div class="left">你好，欢迎您访问南充官方网站</div>
+      <div class="left">你好，欢迎您访问南充官方网站1111</div>
       <div class="right">
         <span class="headerSet">设为首页</span>
         <span class="headerAdd">加入收藏</span>
